@@ -4,7 +4,7 @@
   "name": "cloudflare-demo-app",
   "migrations": [
     {
-      "new_classes": ["Globe"],
+      "new_sqlite_classes": ["Globe"],
       "tag": "v1"
     }
   ],
